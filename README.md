@@ -79,3 +79,4 @@ This project serves as a foundation for more complex decentralized productivity 
 ---
 
 *This project represents the foundational layer of a comprehensive decentralized productivity ecosystem, designed to grow and evolve with the needs of the Web3 community.*
+contract Address: 0xA6Fe3b54b434f6CAf770E61BB315Fd4F0F9746f5
